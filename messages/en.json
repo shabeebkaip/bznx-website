@@ -1,0 +1,423 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "blogs": "Blog",
+    "caseStudies": "Case Studies",
+    "contact": "Contact",
+    "getStarted": "Start Your Business"
+  },
+  "hero": {
+    "title": "BUILD. GROW. SCALE YOUR BUSINESS IN SAUDI ARABIA",
+    "sub": "We help entrepreneurs and global companies establish, operate, and expand in Saudi Arabia with complete business setup and consulting solutions.",
+    "cta": "Start Your Journey"
+  },
+  "stats": {
+    "consultations": "Business Consultations Delivered",
+    "industries": "Industries Served",
+    "compliance": "Compliance Success Rate"
+  },
+  "aboutPreview": {
+    "badge": "About Us",
+    "title": "YOUR STRATEGIC PARTNER IN SAUDI ARABIA",
+    "body1": "We take pride in helping businesses succeed in Saudi Arabia. Our team ensures a smooth, reliable, and fully compliant setup experience — from idea to execution.",
+    "body2": "BZNX is a modern consulting brand built to simplify business expansion in Saudi Arabia. Backed by industry expertise, we help entrepreneurs and enterprises navigate complex regulations, establish operations, and achieve sustainable growth.",
+    "body3": "Our approach combines strategy, compliance, and execution to deliver real business impact. We don't just guide — we build, support, and scale your success.",
+    "cta": "Get Started"
+  },
+  "team": {
+    "badge": "Our Leadership",
+    "title": "Experienced Leadership Team",
+    "sub": "Our leadership has proven expertise and strong networks enabling unique deal sourcing and successful investment scaling.",
+    "members": [
+      {
+        "name": "Mohammed Eid Al-Anzi",
+        "role": "Co-Founder & CEO",
+        "bio": "A highly accomplished entrepreneur with extensive expertise in multi-sector business management. With a distinguished profile spanning business development, large-scale procurement, and strategic investments, he has successfully established and managed multiple companies across retail, trade, real estate, and food & beverage sectors."
+      },
+      {
+        "name": "Fahad Al Anzie",
+        "role": "Co-Founder & Managing Director",
+        "bio": "A highly influential business strategist and industry leader with extensive expertise in project development, contracting, petrochemical trading, and multi-sector business management. With a proven track record of transforming businesses and driving economic growth in Saudi Arabia."
+      },
+      {
+        "name": "Omar Alamoudi",
+        "role": "Head of Operations & HR Strategy",
+        "bio": "A high-impact executive leader with over two decades of experience in Human Resources, Organisational Development, and Strategic Workforce Planning across top-tier medical institutions. He has been at the forefront of driving organisational excellence and sustainable growth."
+      },
+      {
+        "name": "Strategic Partner",
+        "role": "Investment Strategy & M&A",
+        "bio": "A high-impact investment strategist and business transformation expert, specialising in deal structuring, market expansion, and strategic growth initiatives. With a proven track record in mergers & acquisitions, investment strategy, and operational optimisation."
+      }
+    ]
+  },
+  "clients": {
+    "badge": "Our Clients",
+    "title": "Trusted by Leading Companies Worldwide",
+    "sub": "We look for partners who share our drive for excellence and expansion."
+  },
+  "services": {
+    "badge": "What We Do",
+    "title": "Comprehensive Business Services",
+    "sub": "End-to-end support for establishing and scaling your business in the Kingdom",
+    "items": [
+      { "title": "Company Formation & Licensing", "desc": "We guide you through setting up your business in Saudi Arabia, ensuring compliance with local regulations and obtaining all necessary licenses including industrial licenses. Our expertise covers LLCs, partnerships, and exclusively foreign-owned entities." },
+      { "title": "PRO / GRO Services", "desc": "Post-incorporation government liaison services — managing visas, labour cards, trade licensing documentation and approvals. PRO serves as a liaison between your company and government organisations." },
+      { "title": "Investment Consultancy", "desc": "Expert advice on investing in Saudi Arabia with thorough due diligence covering M&A, partnerships and capital deployment. We validate business affairs, assess actual worth, and establish trust before acquisition." },
+      { "title": "Audit & Tax Services", "desc": "Thorough financial audits ensuring accuracy, transparency and compliance with accounting standards. VAT, zakat and corporate tax planning, reporting, and representation in legal matters related to finance and taxation." },
+      { "title": "Virtual CFO", "desc": "Outsourced financial controller services — strategy, reporting, cash-flow optimisation and investor relations for growing businesses. Develop financial strategies, improve reporting, secure funding, and navigate industry-specific challenges." },
+      { "title": "Legal Services", "desc": "Commercial and corporate law support for foreign nationals, entrepreneurs, and businesses entering the Saudi market. We provide legal advice on issues of commercial and corporate law, assisted by a team of international and local experts." },
+      { "title": "Outsourced Bookkeeping", "desc": "Streamlined accounting outsourcing — bookkeeping, payroll, and tax prep delivered on time without hiring full-time staff. Includes VAT inputs as per ZATCA, bank reconciliation, and key management reporting." },
+      { "title": "ERP Consultation", "desc": "Gap analysis, system selection, customisation, data migration and training for optimal ERP adoption and operational efficiency. We upgrade your business processes and optimise operations from assessment through to full deployment." }
+    ],
+    "viewAll": "View All Services"
+  },
+  "whySaudi": {
+    "badge": "Why Saudi Arabia",
+    "title": "The World's Most Exciting Market",
+    "sub": "Saudi Arabia is transforming at unprecedented speed under Vision 2030. Here's why now is the right time to enter.",
+    "items": [
+      { "title": "Vision 2030 Driving Growth", "desc": "A national transformation programme diversifying Saudi Arabia's economy beyond oil, promoting sustainable development and attracting foreign investment across every sector." },
+      { "title": "Biggest MENA Economy", "desc": "Saudi Arabia holds the largest economy in the Middle East and Africa with the biggest stock market — boasting strong consumer spending and economic power." },
+      { "title": "Strategic Location", "desc": "Situated at the crossroads of Europe, Asia, and Africa — Saudi Arabia offers unparalleled access to 3 billion consumers in emerging markets." },
+      { "title": "SAR 1.5 Trillion in Mega-Projects", "desc": "NEOM, Qiddiya, The Line and more — massive infrastructure projects creating vast opportunities in entertainment, real estate, and tourism." },
+      { "title": "100% Foreign Ownership", "desc": "MISA Investor License allows full foreign ownership without a local sponsor, with multiple branches under one license and multiple activities at no extra charge." },
+      { "title": "Commitment to Innovation", "desc": "Saudi Arabia invests heavily in technology, AI and innovation, fostering a startup-friendly and future-ready environment for entrepreneurs." },
+      { "title": "Quality of Life", "desc": "Saudi Arabia continuously improves life for residents and expatriates with better healthcare, education, entertainment, and housing — attracting business leaders and families." },
+      { "title": "Robust Consumer Market", "desc": "Saudi Arabia's growing, young population with rising purchasing power offers significant business opportunities across every sector of the economy." },
+      { "title": "Infrastructure Development", "desc": "Saudi Arabia invests heavily in transportation, logistics, and digital infrastructure to provide businesses with top-notch facilities and world-class services." },
+      { "title": "Supportive Business Environment", "desc": "MISA and government bodies provide extensive support to foreign businesses, ensuring they have all the resources needed to succeed in the Kingdom." },
+      { "title": "Economic Stability", "desc": "Saudi Arabia boasts one of the Middle East's largest and most stable economies, with a proven track record of resilience and long-term growth." },
+      { "title": "Strong GDP & Urbanization", "desc": "A growing GDP and rapid urbanisation boost real estate demand and economic activities in major cities like Riyadh and Jeddah." }
+    ]
+  },
+  "investment": {
+    "badge": "Investment Opportunities",
+    "title": "Strategic Sectors with High Returns",
+    "sub": "WINVENTURES provides exclusive access to vetted investment opportunities aligned with Saudi Vision 2030, targeting 18–24% IRR over 3–5 years.",
+    "sectors": [
+      { "title": "Real Estate & Development", "desc": "Premium towers, compounds, and mixed-use developments in Riyadh, Jeddah and high-growth Tier-2 cities. Land acquisition, JVs and urban regeneration projects." },
+      { "title": "Education", "desc": "Private K-12 schools and vocational training centres with STEM, AI and entrepreneurship focus — aligned with Vision 2030 youth demographics and public-private partnerships." },
+      { "title": "Government Projects", "desc": "Exclusive PPPs in infrastructure and smart city projects providing low-risk, government-backed recurring revenue streams with sovereign backing and strategic visibility." },
+      { "title": "Healthcare & Wellness", "desc": "A network of primary care clinics, diagnostics centres and wellness facilities integrating with health insurance systems and digital health records." }
+    ],
+    "cta": "Explore Opportunities",
+    "highlights": [
+      { "label": "Target IRR", "value": "18–24%" },
+      { "label": "Investment Horizon", "value": "3–5 Years" },
+      { "label": "Exit Options", "value": "REITs / IPO / Buyout" },
+      { "label": "Ownership", "value": "100% Foreign" }
+    ]
+  },
+  "investmentStrategy": {
+    "badge": "Our Approach",
+    "title": "Investment Strategy",
+    "sub": "A disciplined four-pillar approach delivering sustainable returns aligned with Vision 2030.",
+    "pillars": [
+      {
+        "num": "01",
+        "title": "Proprietary Deal Sourcing",
+        "desc": "Exclusive access to vetted projects via government and private sector networks ensures high-quality deal flow unavailable through standard channels."
+      },
+      {
+        "num": "02",
+        "title": "Comprehensive Risk Mitigation",
+        "desc": "Meticulous due diligence and phased capital deployment manage exposure and ensure full regulatory compliance at every stage."
+      },
+      {
+        "num": "03",
+        "title": "Balanced Returns Model",
+        "desc": "Diversified portfolio blends steady income with long-term growth from real estate and government projects, targeting 18–24% IRR."
+      },
+      {
+        "num": "04",
+        "title": "Structured Exit Strategy",
+        "desc": "Planned exits via REITs, IPOs, or buyouts optimise returns and align with Vision 2030 market development over a 3–5 year horizon."
+      }
+    ]
+  },
+  "investmentHighlights": {
+    "badge": "Investment Highlights",
+    "title": "Why Invest with WINVENTURES",
+    "items": [
+      {
+        "icon": "🏛️",
+        "title": "Extensive Government Network",
+        "desc": "WINVENTURES leverages a broad network within Saudi government and private sectors, enabling exclusive access to strategic investment opportunities."
+      },
+      {
+        "icon": "🧠",
+        "title": "In-house Advisory Capabilities",
+        "desc": "The firm offers integrated legal, regulatory, and project management expertise to navigate complex environments and mitigate risks effectively."
+      },
+      {
+        "icon": "📈",
+        "title": "Proven Track Record",
+        "desc": "WINVENTURES has a strong history of successful investments aligned with Saudi Vision 2030 transformation goals across multiple high-growth sectors."
+      }
+    ]
+  },
+  "investmentExecutiveSummary": {
+    "badge": "Executive Summary",
+    "title": "Smart Investment Gateway",
+    "sub": "A concise view of what WINVENTURES is built to deliver in the Kingdom of Saudi Arabia.",
+    "points": [
+      {
+        "title": "High-Growth Focus",
+        "desc": "WINVENTURES is a Saudi investment firm focused on strategic opportunities in high-growth sectors in Riyadh and other key cities."
+      },
+      {
+        "title": "Targeted Sectors",
+        "desc": "We target expanding sectors such as urban real estate, education, and exclusive government PPP opportunities with disciplined risk management."
+      },
+      {
+        "title": "Experienced Leadership",
+        "desc": "Our leadership combines proven execution expertise with strong networks to enable unique deal sourcing and scalable growth."
+      },
+      {
+        "title": "Vision 2030 Alignment",
+        "desc": "Our investment approach aligns with Saudi Vision 2030 and leverages national mega-projects to support economic diversification."
+      }
+    ]
+  },
+  "investmentNextSteps": {
+    "badge": "Next Steps",
+    "title": "Invitation to Strategic Investors",
+    "sub": "Engage with WINVENTURES through structured options designed to match your risk and return profile.",
+    "items": [
+      {
+        "title": "Investment Proposal",
+        "desc": "We invite strategic investors to participate in Saudi Arabia’s growth aligned with Vision 2030."
+      },
+      {
+        "title": "Equity Participation Options",
+        "desc": "Take equity stakes in sector-specific SPVs targeting real estate, education, and government projects."
+      },
+      {
+        "title": "Co‑Investment Opportunities",
+        "desc": "Co-invest alongside WINVENTURES in structured government projects, including PPPs in infrastructure and smart cities."
+      },
+      {
+        "title": "Strategic Partnership Benefits",
+        "desc": "Flexible entry with tailored investment structures aiming for 18–24% IRR over a 3–5 year horizon."
+      }
+    ],
+    "cta": "Request an Investment Discussion"
+  },
+  "registrationProcess": {
+    "badge": "Registration Process",
+    "title": "Your Path to Business in Saudi Arabia",
+    "sub": "We handle everything — from pre-incorporation to full government portal registration. Total timeframe: 45–50 business days.",
+    "phases": [
+      {
+        "num": "01",
+        "label": "Phase 1",
+        "title": "Pre-Incorporation",
+        "time": "7–10 Working Days",
+        "steps": [
+          "Confirm legal structure and operations",
+          "Prepare licensing paperwork and Power of Attorney",
+          "Document collection and verification"
+        ]
+      },
+      {
+        "num": "02",
+        "label": "Phase 2",
+        "title": "Incorporation",
+        "time": "7–10 Working Days",
+        "steps": [
+          "MISA Investor License application (7–10 days)",
+          "Name reservation with Ministry of Commerce (2–3 days)",
+          "Articles of Association drafting and signing (2–3 days)",
+          "Commercial Registration issuance (1–2 days)"
+        ]
+      },
+      {
+        "num": "03",
+        "label": "Phase 3",
+        "title": "Post-Incorporation Portals",
+        "time": "4–5 Working Days",
+        "steps": [
+          "Chamber of Commerce registration",
+          "Ministry of Labor (HRSD, MOL file, UID Manager)",
+          "GOSI, GAZT / VAT, National Address",
+          "Muqeem, Qiwa, Mudad portals",
+          "General Manager delegation & bank account assistance"
+        ]
+      }
+    ],
+    "payment": {
+      "title": "Payment Terms",
+      "terms": [
+        { "label": "Advance — on proposal acceptance", "value": "50%" },
+        { "label": "After documents arrive in Saudi Arabia", "value": "25%" },
+        { "label": "After Commercial License issuance", "value": "25%" }
+      ],
+      "note": "All government fees included. Offer valid for 15 days from submission.",
+      "totalTime": "45–50 Days Total"
+    }
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "title": "Ready to Start Your Saudi Journey?",
+    "sub": "Our team of experts is ready to help you navigate the Kingdom's business landscape.",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Email Address",
+    "phonePlaceholder": "Phone Number",
+    "messagePlaceholder": "Tell us about your business and goals...",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent! We'll be in touch shortly.",
+    "phone": "+966 59 895 8838",
+    "email": "adl@wvksa.com",
+    "website": "www.winventuresksa.com",
+    "address": "Riyadh, Kingdom of Saudi Arabia"
+  },
+  "footer": {
+    "tagline": "Smart Investment Gateway to Saudi Arabia — Strategize. Optimize. Realize.",
+    "rights": "© 2025 BZNX. All rights reserved.",
+    "address": "Riyadh, Kingdom of Saudi Arabia",
+    "links": {
+      "about": "About Us",
+      "services": "Services",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "About WINVENTURES",
+      "title": "Strategize. Optimize. Realize.",
+      "sub": "We are strategic consultants committed to transforming businesses in Saudi Arabia through expertise, data, and bold vision."
+    },
+    "intro": {
+      "title": "Introduction",
+      "body1": "We're a team of strategic consultants working in Saudi Arabia. We believe that progress only happens when you refuse to play things safe. We combine ideas and behaviours, and insights with integration of data to produce enhanced experiences that customers love.",
+      "body2": "WINVENTURES is a Saudi investment firm focused on strategic opportunities in high-growth sectors in Riyadh — Real Estate, Education, and Government Projects. Our leadership has proven expertise and strong networks enabling unique deal sourcing and successful investment scaling."
+    },
+    "workflow": {
+      "title": "How We Work",
+      "steps": [
+        { "num": "01", "title": "Discovery & Assessment", "desc": "Client consultation, data collection and comprehensive business analysis to understand your goals and current landscape." },
+        { "num": "02", "title": "Strategic Planning", "desc": "Define objectives, develop strategies and create a detailed action plan tailored specifically to your business." },
+        { "num": "03", "title": "Implementation & Support", "desc": "Execute the plan with hands-on support, training and continuous progress monitoring to ensure results." },
+        { "num": "04", "title": "Evaluation & Optimisation", "desc": "Performance review, feedback loops and continuous improvement to ensure lasting results and long-term growth." }
+      ]
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "badge": "Our Services",
+      "title": "Everything You Need to Succeed in Saudi Arabia",
+      "sub": "Your gateway to business success in Saudi Arabia — from company formation to virtual CFO, we provide end-to-end support for your Saudi business journey."
+    }
+  },
+  "coreVerticals": {
+    "badge": "Our Core Verticals",
+    "title": "Smart Investments Across Saudi Arabia",
+    "sub": "A multi‑sector approach built for stability, long‑term value, and Vision 2030 aligned growth.",
+    "items": [
+      {
+        "title": "Real Estate",
+        "desc": "Investing in high‑value commercial, residential, and industrial properties to drive capital appreciation and rental yield.",
+        "bullets": ["Property Development", "Real Estate Investment", "Facility & Property Management"]
+      },
+      {
+        "title": "Contracting",
+        "desc": "End‑to‑end infrastructure, construction, and engineering delivery for modern developments across the Kingdom.",
+        "bullets": ["Civil Construction", "MEP (Mechanical, Electrical, Plumbing)", "Joinery & Fit‑out Works"]
+      },
+      {
+        "title": "Trading",
+        "desc": "Supplying high‑demand materials with a strong supply chain network across KSA and the GCC.",
+        "bullets": ["Petrochemical & Industrial Raw Materials", "Building Materials & Construction Supplies", "Consumer Goods & Commodities"]
+      },
+      {
+        "title": "Strategic Investment Solutions",
+        "desc": "Portfolio strategies designed to maximize returns while managing risk through disciplined analysis and execution.",
+        "bullets": ["Portfolio Management", "Real Estate Investment", "Advisory Services"]
+      }
+    ]
+  },
+  "whySaudiPage": {
+    "hero": {
+      "badge": "Why Saudi Arabia",
+      "title": "The Kingdom is Open for Business",
+      "sub": "Saudi Arabia's Vision 2030 has unlocked unprecedented opportunities for global investors and entrepreneurs."
+    },
+    "visa": {
+      "title": "MISA / SAGIA License",
+      "body": "The Ministry of Investment grants licenses to foreign companies without requiring a local partner — enabling 100% foreign ownership, multiple branches under one license, and multiple business activities at no extra charge."
+    }
+  },
+  "ctaSection": {
+    "title1": "READY TO LAUNCH YOUR",
+    "title2": "BUSINESS",
+    "title3": "IN SAUDI ARABIA?",
+    "sub": "Let BZNX handle everything — from setup to success.",
+    "cta1": "Start Your Business",
+    "cta2": "Talk to an Expert"
+  },
+  "servicesGrid": {
+    "badge": "What We Do",
+    "title1": "Comprehensive",
+    "title2": "Business Solutions",
+    "sub": "Everything you need to launch and grow your business in Saudi Arabia",
+    "items": [
+      { "title": "BUSINESS SETUP", "desc": "End-to-end company formation, licensing, and registration support." },
+      { "title": "PRO & GRO SERVICES", "desc": "Government liaison services including visas, documentation, and approvals." },
+      { "title": "REGULATORY COMPLIANCE", "desc": "Ensure your business meets all Saudi legal and regulatory requirements." },
+      { "title": "VIRTUAL CFO SERVICES", "desc": "Strategic financial planning, reporting, and growth advisory." },
+      { "title": "AUDIT & ASSURANCE", "desc": "Transparent auditing and financial verification services." },
+      { "title": "LEGAL SUPPORT", "desc": "Expert legal guidance for corporate and commercial matters." },
+      { "title": "OUTSOURCED BOOKKEEPING", "desc": "Accurate financial management without hiring in-house teams." },
+      { "title": "MANAGEMENT CONSULTING", "desc": "Data-driven strategies to optimize and scale your business." }
+    ]
+  },
+  "howWeWork": {
+    "badge": "How We Work",
+    "sub": "Together, we can conquer challenges, utilize our strengths, and achieve remarkable success in this ambitious home project.",
+    "steps": [
+      { "title": "DISCOVER", "desc": "We understand your business goals, requirements, and market entry strategy." },
+      { "title": "PLAN", "desc": "We create a customized roadmap for your business setup and operations." },
+      { "title": "EXECUTE", "desc": "We handle licensing, documentation, and implementation seamlessly." },
+      { "title": "GROW", "desc": "We support your long-term growth with advisory and optimization services." }
+    ]
+  },
+  "whySaudiGrid": {
+    "badge": "Market Opportunities",
+    "title1": "Why",
+    "title2": "Saudi Arabia",
+    "sub": "The Kingdom is open for business with unprecedented growth potential.",
+    "items": [
+      { "title": "STRATEGIC GLOBAL LOCATION", "desc": "Gateway between Europe, Asia, and Africa. Access to 3 billion consumers." },
+      { "title": "STRONG ECONOMY", "desc": "Largest economy in the MENA region with strong growth potential." },
+      { "title": "100% FOREIGN OWNERSHIP", "desc": "Full control of your business without local sponsorship via MISA licenses." },
+      { "title": "VISION 2030 OPPORTUNITIES", "desc": "Government initiatives supporting innovation and entrepreneurship." },
+      { "title": "GROWING MARKET", "desc": "Young population with increasing purchasing power across every sector." },
+      { "title": "BUSINESS-FRIENDLY ENVIRONMENT", "desc": "Simplified regulations and strong government support for foreign investors." }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "What You Get",
+    "title": "Unmatched value with BZNX",
+    "items": [
+      "Complete end-to-end business setup",
+      "Fast and compliant registration process",
+      "Expert local and international support",
+      "Reduced risk and operational complexity",
+      "Scalable solutions for long-term growth"
+    ]
+  },
+  "testimonialsSection": {
+    "badge": "Client Feedback",
+    "title1": "TRUSTED BY",
+    "title2": "EXPERTS",
+    "items": [
+      { "name": "SARAH JOHNSON", "role": "CEO, TECH SOLUTIONS", "text": "BZNX made our entry into the Saudi market seamless. Their expertise in licensing and local regulations was invaluable." },
+      { "name": "AHMED AL-SAYED", "role": "FOUNDER, DESERT VENTURES", "text": "Professional, reliable, and deeply connected. BZNX is the partner you need to navigate the Kingdom's business landscape." },
+      { "name": "MARK THOMPSON", "role": "MD, GLOBAL TRADING", "text": "The efficiency of their PRO services saved us months of paperwork. Highly recommend for any foreign investor." }
+    ]
+  }
+}
